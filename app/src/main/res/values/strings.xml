@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Aloha Music</string>
+
+    <string name="tvSplash">Sounds of Hawaii</string>
+    <string name="ukelele">Ukelele Image</string>
+    <string name="drums">Drums Image</string>
+    <string name="btnUkelele">Play Ukelele Song</string>
+    <string name="btnDrums">Play Drums Song</string>
+    <string name="pause_ukulele_song">Pause Ukulele Song</string>
+    <string name="pause_drums_song">Pause Drums Song</string>
+</resources>
